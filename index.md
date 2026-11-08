@@ -81,7 +81,7 @@ Ved vesentlige endringer blir oppdatert versjon publisert på denne siden, med n
 
 ## 10. Kontakt
 
-Spørsmål om personvern: arild@fravaer.no
+Spørsmål om personvern: post@ak-kreativ.no
 
 ---
 
@@ -99,4 +99,4 @@ Spørsmål om personvern: arild@fravaer.no
 
 **Permissions:** `QUERY_ALL_PACKAGES` (app list), `PACKAGE_USAGE_STATS` (screen time), notification access (Focus, optional), `READ_CONTACTS` (inner circle, optional), `READ_CALENDAR` (calendar screen, optional, read only), `INTERNET`, `SET_WALLPAPER`/wallpaper service, Google Play Billing. Optional access can be revoked at any time in Android settings.
 
-**Storage:** app-private local storage only; nothing is synced to the cloud by the app. **Children:** not directed at children under 13. **Deleting data:** uninstall the app or clear its data in Android settings. **Changes:** published on this page. **Contact:** arild@fravaer.no
+**Storage:** app-private local storage only; nothing is synced to the cloud by the app. **Children:** not directed at children under 13. **Deleting data:** uninstall the app or clear its data in Android settings. **Changes:** published on this page. **Contact:** post@ak-kreativ.no

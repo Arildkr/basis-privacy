@@ -61,7 +61,7 @@ Ved vesentlige endringer blir oppdatert versjon publisert på denne siden, med n
 
 ## 10. Kontakt
 
-Spørsmål om personvern: arild@fravaer.no
+Spørsmål om personvern: post@ak-kreativ.no
 
 ---
 
@@ -79,4 +79,4 @@ Spørsmål om personvern: arild@fravaer.no
 
 **Permissions:** `READ_CALENDAR` (show your events in the app and widget), `WRITE_CALENDAR` (add, edit and delete events when you ask), `READ_SYNC_SETTINGS` (tell you if calendar sync is off for a Google account). The app may open other apps for you, such as maps or Android account settings.
 
-**Children:** not directed at children under 13. **Deleting data:** uninstall or clear app data; your events stay in the phone's calendar (and Google Calendar) and are deleted there. **Changes:** published on this page. **Contact:** arild@fravaer.no
+**Children:** not directed at children under 13. **Deleting data:** uninstall or clear app data; your events stay in the phone's calendar (and Google Calendar) and are deleted there. **Changes:** published on this page. **Contact:** post@ak-kreativ.no
